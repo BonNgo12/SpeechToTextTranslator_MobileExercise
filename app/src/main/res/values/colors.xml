@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Colors -->
+    <color name="black">#FF1C1C1E</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Backgrounds -->
+    <color name="background">#E8F0FE</color> <!-- soft blue background -->
+
+    <!-- Primary Color Theme -->
+    <color name="primary">#3F51B5</color> <!-- Indigo -->
+
+    <!-- Text Colors -->
+    <color name="text_primary">#202124</color> <!-- deep gray for strong contrast -->
+    <color name="text_secondary">#5F6368</color> <!-- soft gray -->
+</resources>
